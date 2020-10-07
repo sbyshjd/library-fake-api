@@ -1,9 +1,39 @@
 {
-    "posts": [
-      { "id": 1, "title": "json-server", "author": "typicode" }
-    ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 }
-    ],
-    "profile": { "name": "typicode" }
-  }
+  "books": [
+    {
+      "id": 1,
+      "title": "JavaScript: The Good Parts",
+      "author": "Douglas Crockford",
+      "image": "https://res.cloudinary.com/ddycn57vj/image/upload/v1602108558/library-fake-api/JavaScript-The_good_parts_jghs6h.jpg",
+      "copies": 2
+    },
+    {
+      "id": 2,
+      "title": "JavaScript: The Missing Manual",
+      "author": "David Sawyer McFarland",
+      "image": "https://res.cloudinary.com/ddycn57vj/image/upload/v1602108558/library-fake-api/JavaScript-The_missing_manual_yquuwn.jpg",
+      "copies": 1
+    },
+    {
+      "id": 3,
+      "title": "Advanced Javascript",
+      "author": "Chuck Easttom",
+      "image": "https://res.cloudinary.com/ddycn57vj/image/upload/v1602108558/library-fake-api/advanced-JavaScript_hjfqez.jpg",
+      "copies": 1
+    },
+    {
+      "id": 4,
+      "title": "JavaScript For Dummies",
+      "author": "Emily A. Vander Veer",
+      "image": "https://res.cloudinary.com/ddycn57vj/image/upload/v1602108558/library-fake-api/JavaScript_for_dummies_h0ul2n.jpg",
+      "copies": 2
+    },
+    {
+      "id": 5,
+      "title": "Pro JavaScript Techniques",
+      "author": "John Resig",
+      "image": "https://res.cloudinary.com/ddycn57vj/image/upload/v1602108558/library-fake-api/Pro-JavaScript_Techs_rrnwz0.jpg",
+      "copies": 1
+    }
+  ]
+}
