@@ -13,5 +13,8 @@
   "devDependencies": {
     "json-server": "^0.16.2",
     "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "cors": "^2.8.5"
   }
 }
