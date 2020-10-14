@@ -26,14 +26,15 @@
       "title": "JavaScript For Dummies",
       "author": "Emily A. Vander Veer",
       "image": "https://res.cloudinary.com/ddycn57vj/image/upload/v1602108558/library-fake-api/JavaScript_for_dummies_h0ul2n.jpg",
-      "copies": 2
+      "copies": 1
     },
     {
       "id": 5,
       "title": "Pro JavaScript Techniques",
       "author": "John Resig",
       "image": "https://res.cloudinary.com/ddycn57vj/image/upload/v1602108558/library-fake-api/Pro-JavaScript_Techs_rrnwz0.jpg",
-      "copies": 1
+      "copies": 2
     }
-  ]
+  ],
+  "borrowBooks": []
 }
